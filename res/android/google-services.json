@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "211743012586",
+    "firebase_url": "https://myapp-4d1fb.firebaseio.com",
+    "project_id": "myapp-4d1fb",
+    "storage_bucket": "myapp-4d1fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211743012586:android:807f418a3b14f087",
+        "android_client_info": {
+          "package_name": "com.addinfi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211743012586-sebdtp1p4fhiqt7rs9jphlhvphmh2spc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHrBd6a6434eb8JoPNMD8JC_bXuwypxtE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
