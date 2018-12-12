@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget id="com.addinfi.app"
+        version="0.0.1">
+
+        <name>Addinfi</name>
+        <description>
+            App for clients to monitor there ads performance.
+        </description>
+        <author email="dimple.sharma@addinfi.com" href="http://addinfi.com">
+            Addinfi  Team
+        </author>
+        <content src="index.html" />
+        <icon   src="img/icon/drawable-ldpi-icon.png"               density="ldpi" />
+        <icon   src="img/icon/drawable-hdpi-icon.png"               density="hdpi" />
+        <icon   src="img/icon/drawable-xhdpi-icon.png"              density="xhdpi" />
+        <access origin="*" />
+    </widget>
